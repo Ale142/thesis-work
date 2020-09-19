@@ -1,0 +1,1 @@
+/* Operation from I/O with file*/
