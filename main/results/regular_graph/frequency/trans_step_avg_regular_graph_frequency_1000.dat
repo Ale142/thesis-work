@@ -1,0 +1,5 @@
+# REGULAR GRAPH, conf->n_vertex : 100, N_RAN: 1, TIMER: 1000,T_TRANS: 500, conf->degree1: 10, DEATH_PROB: 0.015000, DEATH_PHASE: 2 K: 1
+# N_palline(X)	AVG frequency(Y1)	probability(Y2)
+0	47.000000	0.470000
+1	39.000000	0.390000
+2	12.000000	0.120000

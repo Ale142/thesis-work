@@ -1,0 +1,7 @@
+'# DEGREE SEQUENCE, conf->n_vertex : 100, N_RAN: 1, TIMER: 10000,T_TRANS: 0, conf->degree1: 10, conf->degree2: 50, DEATH_PROB: 0.012500, DEATH_PHASE: 2, K: 2'
+# N_palline(X)	AVG frequency(Y1)	probability(Y2)
+0	22.407500	0.224075
+1	31.269600	0.312696
+2	31.582200	0.315822
+3	13.946900	0.139469
+4	0.783800	0.007838
